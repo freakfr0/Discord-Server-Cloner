@@ -39,7 +39,7 @@ This is a Discord bot that allows you to clone an entire Discord server, includi
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/discord-server-cloner.git
+   git clone https://github.com/freakfrv4/Discord-Server-Cloner.git
    ```
 
 2. Install the required dependencies:
