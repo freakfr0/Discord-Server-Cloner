@@ -16,9 +16,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfrv4&" alt="freak.fr" /></p>
 
 ## Discord Server Cloner
-
 [![version](https://img.shields.io/badge/version-1.0-red)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
 ![license](https://img.shields.io/badge/license-MIT-red)
+
 This is a Discord bot that allows you to clone an entire Discord server, including channels, roles, emojis, and server settings, to another server.
 
 ## Features
