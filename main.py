@@ -53,7 +53,8 @@ X~     `?888888hx~    .      :888ooo       u      x@88k u@88c.             :8888
  !"*8888888n..  :    888&   ^%888*   9888  9888   "*88*" 8888"              `8888  `-*""   /   .888B .  "*888*P"    "*88*" 8888" '8888c. .+  ^"8888*"    
 '    "*88888888*     R888"    'Y"    "888*""888"    ""   'Y"                  "888.      :"    ^*888%     'Y"         ""   'Y"    "88888%       "Y"      
         ^"***"`       ""              ^Y"   ^Y'                                 `""***~"`        "%                                 "YP'                 
-                                                                                                                                                                                                                                                                                                                 {Style.RESET_ALL}{Fore.WHITE}{Fore.RESET} bot by naitik.exe_""")
+                                                                                                            
+{Style.RESET_ALL}{Fore.WHITE}{Fore.RESET} bot by usrfreak.exe_""")
 
 # Wait for user input to continue
 input(f'{Style.BRIGHT}{Fore.YELLOW}\nPress Enter to continue...{Style.RESET_ALL}{Fore.RESET}')
