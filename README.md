@@ -66,4 +66,3 @@ This is a Discord bot that allows you to clone an entire Discord server, includi
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
